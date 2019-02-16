@@ -1,0 +1,3 @@
+[submodule "dns_blocklists"]
+	path = dns_blocklists
+	url = https://github.com/zebpalmer/dns_blocklists
