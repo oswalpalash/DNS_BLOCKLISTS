@@ -1,6 +1,8 @@
 [submodule "dns_blocklists"]
 	path = dns_blocklists
 	url = https://github.com/zebpalmer/dns_blocklists
+        branch = master
 [submodule "hosts-blocklists"]
 	path = hosts-blocklists
 	url = https://github.com/notracking/hosts-blocklists
+        branch = master
